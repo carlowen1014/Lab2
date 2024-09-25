@@ -1,6 +1,6 @@
 import javax.swing.*;
 
-public class EventPlanner {
+public class Meeting {
     public static void main(String[] args) {
         JFrame frame = new JFrame("Event Planner");
         EventListPanel eventListPanel = new EventListPanel();
